@@ -88,7 +88,7 @@ composer install
     ```php
     // config/app.php
     return [
-        'jwt_secret_key' => 'ВАШ_СУПЕР_СЕКРЕТНЫЙ_КЛЮЧ_JWT_ЗДЕСЬ', // Замените это!
+        'jwt_secret_key' => 'ВАШ_СУПЕР_СЕКРЕТНЫЙ_КЛЮЧ_JWT_ЗДЕСЬ',
     ];
     ```
 
